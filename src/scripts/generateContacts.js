@@ -5,7 +5,7 @@ import fs from 'fs/promises';
 const generateContacts = async (number) => {
   try {
     const data = await fs.readFile(PATH_DB, 'utf8');
-    const contacts = JSON.parse(data);
+    let contacts = JSON.parse(data);
 
     for (let i = 0; i < number; i++) {
       contacts.push(createFakeContact());
