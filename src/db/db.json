@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "name": "Mr. Wilfred Lakin",
+    "phone": "(637) 596-0400 x7249",
+    "email": "Jonathan_Schoen@yahoo.com",
+    "job": "Future Factors Engineer"
+  },
+  {
+    "name": "Elias Hauck",
+    "phone": "627.241.8159",
+    "email": "Moriah.Hayes67@gmail.com",
+    "job": "Product Mobility Technician"
+  },
+  {
+    "name": "Blanche Heller PhD",
+    "phone": "(422) 784-0192 x4178",
+    "email": "Lawson25@hotmail.com",
+    "job": "Direct Factors Analyst"
+  },
+  {
+    "name": "Gustavo Hermiston",
+    "phone": "563.799.0161 x4448",
+    "email": "Nakia.Ernser42@gmail.com",
+    "job": "Dynamic Implementation Liaison"
+  },
+  {
+    "name": "Janie Mitchell",
+    "phone": "(440) 956-7605 x060",
+    "email": "Hermann_Hills@hotmail.com",
+    "job": "Customer Branding Director"
+  }
+]
