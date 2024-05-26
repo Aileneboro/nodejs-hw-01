@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "name": "Samantha Johns",
+    "phone": "683.495.8972 x303",
+    "email": "Kieran.Johnston@hotmail.com",
+    "job": "Lead Intranet Agent"
+  },
+  {
+    "name": "Benny Conn",
+    "phone": "581.705.9107 x098",
+    "email": "Robert92@gmail.com",
+    "job": "Product Optimization Officer"
+  },
+  {
+    "name": "Lee Rohan",
+    "phone": "271-265-1666 x21382",
+    "email": "Mable.Harris51@yahoo.com",
+    "job": "Investor Accountability Officer"
+  },
+  {
+    "name": "Yvonne Connelly",
+    "phone": "1-718-490-6535",
+    "email": "Katlynn_Conn@hotmail.com",
+    "job": "Customer Paradigm Architect"
+  },
+  {
+    "name": "Patrick Morar V",
+    "phone": "1-557-372-6769",
+    "email": "Dasia.Purdy@gmail.com",
+    "job": "Central Tactics Engineer"
+  }
+]
